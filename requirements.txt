@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+pycountry
+python-dateutil
+fastapi
+uvicorn
+python-multipart
+numpy
